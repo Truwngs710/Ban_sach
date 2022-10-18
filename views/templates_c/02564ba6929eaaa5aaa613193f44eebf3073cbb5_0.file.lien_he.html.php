@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-03-30 20:47:47
-  from 'C:\xampp\htdocs\HQbook1\HQbook\views\templates\lien_he.html' */
+/* Smarty version 3.1.33, created on 2022-10-18 21:05:58
+  from 'C:\xampp\htdocs\HQbook\views\templates\lien_he.html' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5c9fc7e3b97bb7_06256249',
+  'unifunc' => 'content_634ef916d69cf3_05456577',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '729302191c3ab862f4f6921348a2d96cb29fc851' => 
+    '02564ba6929eaaa5aaa613193f44eebf3073cbb5' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\HQbook1\\HQbook\\views\\templates\\lien_he.html',
-      1 => 1553881792,
+      0 => 'C:\\xampp\\htdocs\\HQbook\\views\\templates\\lien_he.html',
+      1 => 1666119952,
       2 => 'file',
     ),
   ),
@@ -20,27 +20,27 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c9fc7e3b97bb7_06256249 (Smarty_Internal_Template $_smarty_tpl) {
+function content_634ef916d69cf3_05456577 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_3972088545c9fc7e3b8c033_38316028', 'title');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1089222504634ef916d669e1_15427607', 'title');
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_15440154175c9fc7e3b8feb7_20643351', 'content');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_295985589634ef916d673b0_15949279', 'content');
 $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'layouts/master.html');
 }
 /* {block 'title'} */
-class Block_3972088545c9fc7e3b8c033_38316028 extends Smarty_Internal_Block
+class Block_1089222504634ef916d669e1_15427607 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'title' => 
   array (
-    0 => 'Block_3972088545c9fc7e3b8c033_38316028',
+    0 => 'Block_1089222504634ef916d669e1_15427607',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -50,12 +50,12 @@ Danh Sách sản phẩm<?php
 }
 /* {/block 'title'} */
 /* {block 'content'} */
-class Block_15440154175c9fc7e3b8feb7_20643351 extends Smarty_Internal_Block
+class Block_295985589634ef916d673b0_15949279 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'content' => 
   array (
-    0 => 'Block_15440154175c9fc7e3b8feb7_20643351',
+    0 => 'Block_295985589634ef916d673b0_15949279',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -183,9 +183,9 @@ public/img/img_avatar1.jpg" alt="Avatar" class="image-left">
 		    <div class="text-left">
 				<a class="text-left" href="https://www.facebook.com/truwngs" ">Nguyễn Ngọc Thương<br><br><br></a>
 				<p>
-					<br>Sinh Ngày: 05-05-1997<br><br>
+					<br>Sinh Ngày: 07-10-2000<br><br>
 				</p>
-		    	<a class="text-left" href="mailto:truwngs@gmail.com?subject=feedback HQbook" "email me"><br>Email: truwngs@gmail.com</a>
+		    	<a class="text-left" href="mailto:Truwngs@gmail.com?subject=feedback Ban Sach" "email me"><br>Email: Truwngs@gmail.com</a>
 		    </div>
 		  </div>
 		</div>

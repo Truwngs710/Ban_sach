@@ -181,11 +181,11 @@ input[type=submit]:hover {
 public/img/img_avatar1.jpg" alt="Avatar" class="image-left">
 		  <div class="overlay-left">
 		    <div class="text-left">
-				<a class="text-left" href="https://www.facebook.com/tranthanhhai97" ">TRẦN THANH HẢI<br><br><br></a>
+				<a class="text-left" href="https://www.facebook.com/truwngs" ">Nguyễn Ngọc Thương<br><br><br></a>
 				<p>
 					<br>Sinh Ngày: 05-05-1997<br><br>
 				</p>
-		    	<a class="text-left" href="mailto:tthai@alualpha.com?subject=feedback HQbook" "email me"><br>Email: tthai@alualpha.com</a>
+		    	<a class="text-left" href="mailto:truwngs@gmail.com?subject=feedback HQbook" "email me"><br>Email: truwngs@gmail.com</a>
 		    </div>
 		  </div>
 		</div>
