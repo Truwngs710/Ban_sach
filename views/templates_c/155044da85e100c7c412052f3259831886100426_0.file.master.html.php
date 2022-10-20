@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.33, created on 2022-10-18 20:45:20
+/* Smarty version 3.1.33, created on 2022-10-20 03:06:34
   from 'C:\xampp\htdocs\HQbook\views\templates\layouts\master.html' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_634ef440c3fa83_80975922',
+  'unifunc' => 'content_63509f1a2f7953_77698259',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '155044da85e100c7c412052f3259831886100426' => 
     array (
       0 => 'C:\\xampp\\htdocs\\HQbook\\views\\templates\\layouts\\master.html',
-      1 => 1664384691,
+      1 => 1666227992,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_634ef440c3fa83_80975922 (Smarty_Internal_Template $_smarty_tpl) {
+function content_63509f1a2f7953_77698259 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, false);
 ?>
@@ -62,7 +62,7 @@ $_smarty_tpl->inheritance->init($_smarty_tpl, false);
   <meta property="og:image"         content="<?php echo path;?>
 public/img/logo.png" />
     <title><?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1377150967634ef440c34cc6_99639208', 'title');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_207227965063509f1a2e9939_56537940', 'title');
 ?>
 </title>
   </head>
@@ -149,7 +149,7 @@ gio-hang">
   <body style="background-color: #f0f0f0">
 
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1601321795634ef440c3e2d7_28515669', 'content');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_42197687663509f1a2f6449_65424490', 'content');
 ?>
 
   <footer>
@@ -211,25 +211,7 @@ dang-nhap" onclick="return false;">Đăng nhập/Tạo tài khoản</a></li>
         </div>
 
         <div class="row">
-                <div class="col-lg-4 col-sm-4 col-md-4">
-                    <div class="col-sm-12 col-md-12 col-xs-12 icon-footer" style="margin-bottom: 8px;"><img alt="HQbook.COM" src="<?php echo path;?>
-public/img/logo.png">
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-xs-12 address-footer" style="font-size:13px;">Lầu 7, 387-389 Hai Bà Trưng Quận 3 TP HCM
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-xs-12 address-footer" style="font-size:13px;">Công Ty Cổ Phần Phát Hành Sách TP HCM - HQBOOK
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-xs-12 address-footer" style="font-size:13px;">60 - 62 Lê Lợi, Quận 1, TP. HCM, Việt Nam
-                    </div>
-                    <div class="col-sm-12 col-md-12 col-xs-12 address-footer" style="font-size:13px; padding-top: 5px;">HQbook.com nhận đặt hàng trực tuyến và giao hàng tận nơi. KHÔNG hỗ trợ đặt mua và nhận hàng trực tiếp tại văn phòng cũng như tất cả Hệ Thống HQbook trên toàn quốc.
-                    </div>
-                    <div v class="col-sm-12 col-md-12 col-xs-12 address-footer" style="margin-top: 5px;">
-                        <a target="_blank" href="http://online.gov.vn/CustomWebsiteDisplay.aspx?DocId=19176">
-                        <img src="<?php echo path;?>
-public/img/logo-bo-cong-thuong-da-thong-bao.png" style="width: 100px;">
-                        </a> 
-                    </div>
-                </div>
+              
                 <div class="col-lg-4 col-sm-4 col-md-4">
                     <div class="col-sm-12 col-md-12 col-xs-12" align="center" style="font-size:14.5px; margin-bottom:20px; margin-top:10px; padding: 0px;">
                         <a target="_blank" href="https://www.facebook.com/fahasa/" title="Facebook">
@@ -285,19 +267,19 @@ public/img/logo-bo-cong-thuong-da-thong-bao.png" style="width: 100px;">
   </footer>
    
     <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_1665876212634ef440c3f265_20160378', 'script');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_82096489563509f1a2f7136_32891928', 'script');
 ?>
 
 
   </body>
 </html><?php }
 /* {block 'title'} */
-class Block_1377150967634ef440c34cc6_99639208 extends Smarty_Internal_Block
+class Block_207227965063509f1a2e9939_56537940 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'title' => 
   array (
-    0 => 'Block_1377150967634ef440c34cc6_99639208',
+    0 => 'Block_207227965063509f1a2e9939_56537940',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -310,12 +292,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'title'} */
 /* {block 'content'} */
-class Block_1601321795634ef440c3e2d7_28515669 extends Smarty_Internal_Block
+class Block_42197687663509f1a2f6449_65424490 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'content' => 
   array (
-    0 => 'Block_1601321795634ef440c3e2d7_28515669',
+    0 => 'Block_42197687663509f1a2f6449_65424490',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
@@ -323,12 +305,12 @@ public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
 }
 /* {/block 'content'} */
 /* {block 'script'} */
-class Block_1665876212634ef440c3f265_20160378 extends Smarty_Internal_Block
+class Block_82096489563509f1a2f7136_32891928 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'script' => 
   array (
-    0 => 'Block_1665876212634ef440c3f265_20160378',
+    0 => 'Block_82096489563509f1a2f7136_32891928',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {
