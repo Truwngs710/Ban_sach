@@ -10,15 +10,11 @@
   - Phần mềm giả lập chạy đồ án: wampserver.
   - Thông tin đăng nhập để chạy đồ án:
     - Đăng nhập user:
-      - email: nguyentricuong@gmail.com
+      - email: 
       - password: 12345678
     - Đăng nhập admin:
       - email: admin@gmail.com
       - password: 12345678
-  - link youtube video demo: https://youtu.be/F718lOaoF6U
-  - Tác giả: Nguyễn Trí Đăng Khôi.
-  - Lớp: CĐTH18PMB.
-  - Trường: Cao Đẳng Kỹ Thuật Cao Thắng.
 - Danh sách các chức năng đồ án:
    - Phân quyền user, admin
    - Các chức năng bên User:
