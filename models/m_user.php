@@ -4,7 +4,8 @@ class M_user extends Database
 {
     public function nguoiDungDangNhap($username,$password)
     {
-        $password=md5($password);
+        // $password=md5($password);
+        // $password=$password;
         $this->setQuery('select * from bs_nguoi_dung where tai_khoan=? and mat_khau=?');
         return $this->loadRow(array($username,$password));
     }
